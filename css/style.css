@@ -341,13 +341,13 @@ a{
 }
 .bar{
     width: 50%;
-    height: 5px;
+    height: 6px;
     background-color: #272727;
 }
 
 .barBangla{
     width: 100%;
-    height: 5px;
+    height: 6px;
     background-color: var(--designedtext);
 }
 .english{display: flex;
@@ -362,14 +362,9 @@ flex-direction: row;
     flex: 80%;
 
 }
-.bar{
-    width: 40%;
-    height: 5px;
-    background-color: #272727;
-}
 .barEnglish{
     width: 83%;
-    height: 5px;
+    height: 6px;
     background-color: var(--designedtext);
 }
 /* language ends here */
